@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/flyingcowwebsite/static/css/main.c8935552.chunk.css",
+    "main.js": "/flyingcowwebsite/static/js/main.8443dce4.chunk.js",
+    "main.js.map": "/flyingcowwebsite/static/js/main.8443dce4.chunk.js.map",
+    "runtime-main.js": "/flyingcowwebsite/static/js/runtime-main.9ce222f2.js",
+    "runtime-main.js.map": "/flyingcowwebsite/static/js/runtime-main.9ce222f2.js.map",
+    "static/js/2.58c7a192.chunk.js": "/flyingcowwebsite/static/js/2.58c7a192.chunk.js",
+    "static/js/2.58c7a192.chunk.js.map": "/flyingcowwebsite/static/js/2.58c7a192.chunk.js.map",
+    "index.html": "/flyingcowwebsite/index.html",
+    "static/css/main.c8935552.chunk.css.map": "/flyingcowwebsite/static/css/main.c8935552.chunk.css.map",
+    "static/js/2.58c7a192.chunk.js.LICENSE.txt": "/flyingcowwebsite/static/js/2.58c7a192.chunk.js.LICENSE.txt",
+    "static/media/brandon.80fd1417.png": "/flyingcowwebsite/static/media/brandon.80fd1417.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ce222f2.js",
+    "static/js/2.58c7a192.chunk.js",
+    "static/css/main.c8935552.chunk.css",
+    "static/js/main.8443dce4.chunk.js"
+  ]
+}
