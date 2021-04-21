@@ -6,6 +6,8 @@ type NavItemType = {
     path: string;
 };
 
+const rootpath = "flyingcowwebsite";
+
 const navItems: NavItemType[] = [
     {
         name: "Home",
@@ -37,7 +39,7 @@ const Navbar: React.FC = () => {
                     {
                         navItems.map((item) => (
                             <li className={`nav-item ${pathname === item.path ? "active": null}`}>
-                                <a className="nav-link" href={item.path}>{item.name}</a>
+                                <a className="nav-link" href={rootpath + item.path}>{item.name}</a>
                             </li>
                         ))
                     }
