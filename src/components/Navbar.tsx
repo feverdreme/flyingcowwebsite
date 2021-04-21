@@ -6,7 +6,7 @@ type NavItemType = {
     path: string;
 };
 
-const rootpath = "flyingcowwebsite";
+const rootpath = "";
 
 const navItems: NavItemType[] = [
     {

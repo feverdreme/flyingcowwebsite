@@ -15,23 +15,23 @@ export default function App() {
                 <Banner />
 
                 <Switch>
-                    <Route path="flyingcowwebsite/home">
+                    <Route path="/home">
                         <Home />
                     </Route>
 
-                    <Route path="flyingcowwebsite/about">
+                    <Route path="/about">
 
                     </Route>
 
-                    <Route path="flyingcowwebsite/store">
+                    <Route path="/store">
                         <Store />
                     </Route>
 
-                    <Route path="flyingcowwebsite/news">
+                    <Route path="/news">
 
                     </Route>
 
-                    <Route path="flyingcowwebsite/">
+                    <Route path="/">
                         <Home />
                     </Route>
                 </Switch>
